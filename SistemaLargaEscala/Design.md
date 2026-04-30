@@ -1,4 +1,4 @@
-design_content = """# Design do Sistema: RDA
+"""# Design do Sistema: RDA
 
 Este documento detalha como os princípios do Pensamento Computacional moldaram a arquitetura do RDA.
 
