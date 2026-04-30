@@ -1,4 +1,4 @@
-"""# Design do Sistema: RDA
+# Design do Sistema: RDA
 
 Este documento detalha como os princípios do Pensamento Computacional moldaram a arquitetura do RDA.
 
@@ -31,4 +31,4 @@ Identificamos que 80% das interações seguem o padrão "Consultar -> Visualizar
 Cálculo de Hash: Executado no upload e periodicamente para garantir que o arquivo não foi corrompido ou alterado por terceiros.
 
 Busca Booleana: Algoritmo para filtrar documentos por setor, data e palavras-chave simultaneamente.
-"""
+
